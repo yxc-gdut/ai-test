@@ -1,0 +1,23 @@
+{
+  "name": "ai-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vue-cli": "^2.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxc-gdut/ai-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxc-gdut/ai-test/issues"
+  },
+  "homepage": "https://github.com/yxc-gdut/ai-test#readme"
+}
